@@ -9,64 +9,60 @@
 ---
 
 ## 🜸 SYSTEM IDENTIFIER: `FANG_神_420`
-Status: ACTIVE
-Classification: UNKNOWN
-Access Level: UNAUTHORIZED
-Threat Score: ███████░░░ (HIGH)
-Profile Integrity: VERIFIED
-
-yaml
-Copy code
+```
+> Status: ACTIVE
+> Classification: UNKNOWN
+> Access Level: UNAUTHORIZED
+> Threat Score: ███████░░░ (HIGH)
+> Profile Integrity: VERIFIED
+```
 
 ---
 
 ## ❒ ABOUT ME
+```
 I operate in the blind spots of the network.
 
 Focus Areas:
-• Reverse Engineering
-• Malware Analysis
-• Android Security (libil2cpp / native)
-• Exploit Development
-• OS Development
-• Rust Systems Programming
-
-yaml
-Copy code
+    • Reverse Engineering
+    • Malware Analysis
+    • Android Security (libil2cpp / native)
+    • Exploit Development
+    • OS Development
+    • Rust Systems Programming
+```
 
 ---
 
 ## ❒ CURRENT RUNTIME STATUS
+```
 ┌─────────────────────────────────────────┐
-│ boredom.exe → RUNNING │
-│ reverse_shell → LISTENING : 1337 │
-│ rustc → IDLE (awaiting input) │
-│ caffeine.dll → PERMANENTLY INJECTED │
+│ boredom.exe     → RUNNING               │
+│ reverse_shell   → LISTENING : 1337      │
+│ rustc           → IDLE (awaiting input) │
+│ caffeine.dll    → PERMANENTLY INJECTED  │
 └─────────────────────────────────────────┘
-
-yaml
-Copy code
+```
 
 ---
 
 ## ❒ WEAPONIZED TOOLCHAIN
+```
 LANGUAGES:
-Rust, C, ARM64 Assembly, TypeScript, Python
+    Rust, C, ARM64 Assembly, TypeScript, Python
 
 SPECIALIZATIONS:
-• Binary Exploitation
-• Mobile Reverse Engineering
-• Malware Analysis / Threat Intel
-• Low-level Arch Design / OSDev
-• Security Tools Engineering
+    • Binary Exploitation
+    • Mobile Reverse Engineering
+    • Malware Analysis / Threat Intel
+    • Low-level Arch Design / OSDev
+    • Security Tools Engineering
 
 ENVIRONMENT:
-Arch Linux
-Neovim / JetBrains Mono
-LLDB / Ghidra / Objection / Frida
-
-yaml
-Copy code
+    Arch Linux
+    Neovim / JetBrains Mono
+    LLDB / Ghidra / Objection / Frida
+```
 
 ---
 
@@ -83,47 +79,44 @@ Copy code
 ---
 
 ## ❒ ACTIVE PROJECT PAYLOADS
+```
 [+] /exploits/
-├── kernel_vector_overflow/
-├── binder_race_condition/
-└── realme_debug_bypass/
+    ├── kernel_vector_overflow/
+    ├── binder_race_condition/
+    └── realme_debug_bypass/
 
 [+] /reversing/
-├── apk_dissector/
-├── il2cpp_symbol_map/
-└── memory_layout_visualizer/
+    ├── apk_dissector/
+    ├── il2cpp_symbol_map/
+    └── memory_layout_visualizer/
 
 [+] /tooling/
-├── rust_autoclicker/
-├── ldplayer_process_hook/
-└── syscall_tracer/
-
-yaml
-Copy code
+    ├── rust_autoclicker/
+    ├── ldplayer_process_hook/
+    └── syscall_tracer/
+```
 
 ---
 
 ## ❒ OPERATIONS LOG
+```
 2025:
-↳ Completed multiple malware teardown reports
-↳ Began full OSDev architecture from bare metal
-↳ Active Android exploit research
-↳ Rust security tooling in continuous deployment
-
-yaml
-Copy code
+    ↳ Completed multiple malware teardown reports
+    ↳ Began full OSDev architecture from bare metal
+    ↳ Active Android exploit research
+    ↳ Rust security tooling in continuous deployment
+```
 
 ---
 
 ## ❒ UPTIME SIGNATURE
+```
 "If bugs exist in the light,
-migrate to the shadows
-where they can be dissected."
+    migrate to the shadows
+        where they can be dissected."
 
 — Fang 神
-
-yaml
-Copy code
+```
 
 <p align="center">
   <img src="https://i.imgur.com/0Zf0o0l.gif" width="300">
