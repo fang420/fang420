@@ -60,9 +60,9 @@ root@fang420:~# tree ./projects/ -L 2
     └── rust_autoclicker        # High-performance event injection
 ```
 ## 📡 CURRENT_SYSTEM_RESOURCES
--  CPU [████████████████████] 100% (Reverse Engineering)
--  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
--  SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
+~  CPU [████████████████████] 100% (Reverse Engineering)
+~  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
+~  SLP [████████████████████] 0%   (Hunting Bugs)
 
 ## 💬 ENCRYPTED_SIGNATURE
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
