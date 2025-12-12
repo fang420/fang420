@@ -1,127 +1,78 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=700&color=00FF00&center=true&vCenter=true&width=650&lines=Fang+神;Security+Researcher;Reverse+Engineer;Malware+Analysis+Unit+%2F%2F+Active">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+FANG_神;SECURITY+RESEARCHER;REVERSE+ENGINEER;[+]+MALWARE+ANALYSIS+UNIT+ACTIVE">
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/3Xj7o7t.gif" width="700">
-</p>
-
----
-
-## 🜸 SYSTEM IDENTIFIER: `FANG_神_420`
-```
-> Status: ACTIVE
-> Classification: UNKNOWN
-> Access Level: UNAUTHORIZED
-> Threat Score: ███████░░░ (HIGH)
-> Profile Integrity: VERIFIED
-```
-
----
-
-## ❒ ABOUT ME
-```
-I operate in the blind spots of the network.
-
-Focus Areas:
-    • Reverse Engineering
-    • Malware Analysis
-    • Android Security (libil2cpp / native)
-    • Exploit Development
-    • OS Development
-    • Rust Systems Programming
-```
-
----
-
-## ❒ CURRENT RUNTIME STATUS
-```
-┌─────────────────────────────────────────┐
-│ boredom.exe     → RUNNING               │
-│ reverse_shell   → LISTENING : 1337      │
-│ rustc           → IDLE (awaiting input) │
-│ caffeine.dll    → PERMANENTLY INJECTED  │
-└─────────────────────────────────────────┘
-```
-
----
-
-## ❒ WEAPONIZED TOOLCHAIN
-```
-LANGUAGES:
-    Rust, C, ARM64 Assembly, TypeScript, Python
-
-SPECIALIZATIONS:
-    • Binary Exploitation
-    • Mobile Reverse Engineering
-    • Malware Analysis / Threat Intel
-    • Low-level Arch Design / OSDev
-    • Security Tools Engineering
-
-ENVIRONMENT:
-    Arch Linux
-    Neovim / JetBrains Mono
-    LLDB / Ghidra / Objection / Frida
-```
-
----
-
-## ❒ GITHUB TELEMETRY FEED
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fang420&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00ff00&title_color=00ff00&text_color=00ff00" width="440">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fang420&theme=chartreuse-dark&hide_border=true" width="440">
+  <img src="https://raw.githubusercontent.com/Kira-Master/Kira-Master/master/hex.gif" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fang420&theme=github_dark" width="900">
+  <kbd><b>ESTABLISHING ENCRYPTED TUNNEL...</b></kbd>
 </p>
 
 ---
 
-## ❒ ACTIVE PROJECT PAYLOADS
-```
-[+] /exploits/
-    ├── kernel_vector_overflow/
-    ├── binder_race_condition/
-    └── realme_debug_bypass/
+## 📂 SYSTEM_MANIFEST.log
+```zsh
+> USER:         Fang 神 (FANG_神_420)
+> STATUS:       Infiltrating Bitstream
+> LOCATION:     Shadows of the Network
+> CLEARANCE:    LEVEL_RED_OMNIPOTENT
+> ARCHITECTURE: Arch Linux / Neovim / ARM64
 
-[+] /reversing/
-    ├── apk_dissector/
-    ├── il2cpp_symbol_map/
-    └── memory_layout_visualizer/
-
-[+] /tooling/
-    ├── rust_autoclicker/
-    ├── ldplayer_process_hook/
-    └── syscall_tracer/
-```
-
----
-
-## ❒ OPERATIONS LOG
-```
-2025:
-    ↳ Completed multiple malware teardown reports
-    ↳ Began full OSDev architecture from bare metal
-    ↳ Active Android exploit research
-    ↳ Rust security tooling in continuous deployment
-```
-
----
-
-## ❒ UPTIME SIGNATURE
-```
-"If bugs exist in the light,
-    migrate to the shadows
-        where they can be dissected."
-
-— Fang 神
-```
-
+🛠 WEAPONIZED_TOOLKIT
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Rust-000000%3Fstyle%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ARM64_ASM-FF0000%3Fstyle%3Dfor-the-badge%26logo%3Darm%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+<br />
+<div align="center">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Ghidra-FFD700%3Fstyle%3Dflat-square%26logo%3Dghidra%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Frida-FFEEFF%3Fstyle%3Dflat-square%26logo%3Dfrida%26logoColor%3DCC0000" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LLDB-white%3Fstyle%3Dflat-square%26logo%3Dllvm%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Android_Security-3DDC84%3Fstyle%3Dflat-square%26logo%3Dandroid%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kernel_Exploitation-000000%3Fstyle%3Dflat-square%26logo%3Dlinux%26logoColor%3Dwhite" />
+</div>
+📊 NEURAL_LINK_TELEMETRY
 <p align="center">
-  <img src="https://i.imgur.com/0Zf0o0l.gif" width="300">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dfang420%26show_icons%3Dtrue%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26icon_color%3D00FF00%26title_color%3D00FF00%26text_color%3D00FF00%26bg_color%3D0D1117" width="48%">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com%3Fuser%3Dfang420%26theme%3Dchartreuse-dark%26hide_border%3Dtrue%26background%3D0D1117%26ring%3D00FF00%26fire%3D00FF00" width="48%">
 </p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/stats%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+<img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/productive-time%3Fusername%3Dfang420%26theme%3Dgithub_dark" width="32%">
+</p>
+⚡ ACTIVE_PAYLOAD_DIRECTORIES
+root@fang420:~# tree ./projects/ -L 2
+./projects/
+├── 💀 EXPLOITS
+│   ├── kernel_vector_overflow  # Advanced memory corruption
+│   ├── binder_race_condition   # Android IPC escalation
+│   └── realme_debug_bypass     # Hardware-specific breakout
+├── 🔍 REVERSING
+│   ├── libil2cpp_dissector     # Unity mobile metadata restoration
+│   ├── apk_symbol_map          # Automated deobfuscation
+│   └── syscall_tracer          # Rust-based kernel monitoring
+└── 🏗️ LOW_LEVEL
+    ├── FangOS                  # From scratch bare-metal kernel
+    └── rust_autoclicker        # High-performance event injection
 
----
+📡 CURRENT_SYSTEM_RESOURCES
+  CPU [████████████████████] 100% (Reverse Engineering)
+  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
+  SLP [░░░░░░░░░░░░░░░░░░░░] 0%   (Hunting Bugs)
 
-## END OF TRANSMISSION ▓▓▓▓▓▓▓▓▓░░
+💬 ENCRYPTED_SIGNATURE
+> "The light is a lie. If you want the truth, look at the instructions executed in the dark."
+> — Fang 神
+> 
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF00%26height%3D100%26section%3Dfooter" width="100%">
+</p>
+<p align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dfang420%26color%3D00FF00%26style%3Dflat-square%26label%3DVISITOR_ID" />
+</p>
