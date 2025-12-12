@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+FANG_神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+Fang%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 > OS: Arch Linux
 > ARCHITECTURE: x64
 ```
-## 🛠 WEAPONIZED_TOOLKIT
+## 🛠 TOOLS
 <div align="center">
 <img src="https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat-square" />
@@ -38,38 +38,38 @@
 
 </div>
 
-## 💻 GitHub Stats:
+## 💻 GitHub STATS:
 ![](https://github-readme-stats.vercel.app/api?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=fang420&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fang420&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## ⚡ ACTIVE_PAYLOAD_DIRECTORIES
+## ⚡ DIRECTORY LISTING
 ```
 root@fang420:~# tree ./projects/ -L 2
 ./projects/
-├── 💀 EXPLOITS
-│   ├── kernel_vector_overflow  # Advanced memory corruption
-│   ├── binder_race_condition   # Android IPC escalation
-│   └── realme_debug_bypass     # Hardware-specific breakout
-├── 🔍 REVERSING
-│   ├── libil2cpp_dissector     # Unity mobile metadata restoration
-│   ├── apk_symbol_map          # Automated deobfuscation
-│   └── syscall_tracer          # Rust-based kernel monitoring
-└── 🏗️ LOW_LEVEL
-    ├── FangOS                  # From scratch bare-metal kernel
-    └── rust_autoclicker        # High-performance event injection
+├── 💀 Exploitation
+│   ├── Metasploit
+│   ├── Sliver
+│   └── Custom RATs
+├── 🔍 Reverse Engineering / Hooking
+│   ├── Ghidra
+│   ├── x64dbg         
+│   └── Frida
+└── 🏗️ Built
+    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI some aspects and reply just like an normal AI agent.)
+    └── NoMercy (Insanely destructive ransomware, close-source)
 ```
-## 📡 CURRENT_SYSTEM_RESOURCES
+## 📡 SYSTEM_INFO
 -  CPU [████████████████████] 100% (Reverse Engineering)
 -  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
 -  SLP [████████████████████] 0%   (Hunting Bugs)
 
-## 💬 ENCRYPTED_SIGNATURE
+## 💬 ENCRYPTED_SIGN
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
 > — Fang 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Fang%20神&fontSize=90" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=fang420" />
