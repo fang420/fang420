@@ -56,7 +56,7 @@ root@fang420:~# tree ./projects/ -L 2
 │   ├── x64dbg         
 │   └── Frida
 └── 🏗️ Built
-    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI in some aspects and replies just like an normal AI agent.)
+    ├── JohanBot (an open-source Instagram Bot, which is better than MetaAI in some aspects and replies just like an normal AI agent)
     └── NoMercy (Insanely destructive ransomware, closed-source)
 ```
 ## 📡 SYSTEM_INFO
@@ -69,7 +69,7 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Fang%20神&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=red&height=300&section=header&text=Fang%20神&fontSize=90" />
 </p>
 <p>
 <img src="https://komarev.com/ghpvc/?username=fang420" />
