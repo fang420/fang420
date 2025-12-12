@@ -69,8 +69,8 @@ root@fang420:~# tree ./projects/ -L 2
 > — Fang 神
 > 
 <p align="center">
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 </p>
 <p>
-![](https://komarev.com/ghpvc/?username=fang420)
+<img src="https://komarev.com/ghpvc/?username=fang420" />
 </p>
