@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+Fang%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+QcKastra%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
 </h1>
 
 <p align="center">
