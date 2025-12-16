@@ -62,7 +62,7 @@ root@qckastra:~# tree ./projects/ -L 2
 ## 📡 SYSTEM_INFO
 -  CPU [████████████████████] 100% (Reverse Engineering)
 -  MEM [████████████░░░░░░░░] 60%  (Caffeine Injected)
--  SLP [████████████████████] 0%   (Hunting Bugs)
+-  SLP [████████████████████] 100%   (Hunting Bugs)
 
 ## 💬 ENCRYPTED_SIGN
 > "The light is a lie. If you want the truth, look at the instructions executed in the dark."
