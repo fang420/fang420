@@ -59,3 +59,6 @@ root@soumeswxr:~# cat TOOLS
 <p>
 <img src="https://komarev.com/ghpvc/?username=soumeswxr" />
 </p>
+
+## JOIN OUR GANG 
+[![𓆩☠︎︎𓆪](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord)](https://discord.gg/UprTZqgb5g)
